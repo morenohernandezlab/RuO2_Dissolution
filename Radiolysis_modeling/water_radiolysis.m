@@ -1,8 +1,7 @@
  function products = water_radiolysis(t,reactants,generationDueToGValues,k)
 
-% Water-Cl-Ce Radiolysis Model
-% Modified by Ivan A. Moreno-Hernandez to include Cl and Ce reactions, 2020
-
+% Water-Cl-Fe Radiolysis Model
+% Modified by Ivan A. Moreno-Hernandez and S. Avery Vigil to include Cl and Fe reactions, 2023
 %{
     The MIT License (MIT)
     
